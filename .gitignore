@@ -1,0 +1,1070 @@
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.flattened-pom.xml
+
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+
+### Code-Java ###
+# Language Support for Java(TM) by Red Hat extension for Visual Studio Code - https://marketplace.visualstudio.com/items?itemName=redhat.java
+
+.project
+.classpath
+factoryConfiguration.json
+
+# End of https://www.gitignore.io/api/code-java
+*.prefs
+Aplicacion/Backend/Workspace/.metadata/.lock
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Battleship-API-wad/.indexes/properties.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Battleship-API-wad/.location
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Battleship-API-wad/.markers
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Battleship-API-wad/org.eclipse.jdt.core/state.dat
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/serviguadanas/.indexes/e4/b9/db/properties.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/serviguadanas/.indexes/properties.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/serviguadanas/.markers
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/serviguadanas/org.eclipse.jdt.core/state.dat
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.root/68.tree
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Battleship-API-wad - App.launch
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/serviguadanas - ServiguadanasApplication.launch
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/100870437.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1012197361.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1029388497.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1048794563.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/106133578.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1064023981.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1075742580.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1082693940.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1141555521.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1173945041.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1194862868.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1219073391.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1256110151.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1283706869.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1317743334.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1338379068.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1380861822.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1381613432.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1390532450.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1393133016.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1417411144.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1468796830.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1482790477.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1483844028.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1491351308.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1509093699.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1535022438.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1537516133.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1553759607.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1568781325.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1576875159.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1601164664.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1653886981.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1656089713.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1657000868.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1687367188.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1710209840.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1740252168.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1757076553.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1768390463.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1769125065.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1778854804.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1812137605.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1817406292.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1817446190.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1819975494.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1839514744.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1870966913.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1896364997.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1898749798.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/1919021009.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/197336222.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2011263057.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2029486817.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2030982727.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/203577976.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2154113074.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2160391134.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/218404002.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2228212403.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2234834769.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2247034752.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2253385876.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2262669651.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2273491807.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2284406258.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2293761210.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2324039476.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2341309489.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2354589273.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/239333971.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2396838687.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2492726633.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2503850910.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2527983736.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2560315834.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2564013353.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2598373447.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2614682234.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2614775879.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2618923116.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2663008219.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/267446660.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/271195964.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2718937857.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2725782233.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2743900758.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2760785624.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2771613730.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2874668421.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2887625657.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2907747692.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2950681489.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/298443253.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/2997386090.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3017234737.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3053951476.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3069904924.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/308409069.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3129114939.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3146894920.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3163996356.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3231606367.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3239723376.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/325288785.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3254975756.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3298451713.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3311770664.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3322850455.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3368221940.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3370964803.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3371446391.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3387660850.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3409515596.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3424131397.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/343543380.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3439039382.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3449332540.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3463184395.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3500420806.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3503184940.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3544609608.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3565388838.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3653659747.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3672363321.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3672986184.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3673530614.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3754254495.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3784073207.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3800426718.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3819261538.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3844518158.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3870597991.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3876057666.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3911143732.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3914590850.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3917582759.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/39414472.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3946828914.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/396998675.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3979799891.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/3992799908.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/400157776.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/4017403274.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/4026731318.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/4070123196.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/4076351794.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/411896054.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/4139530566.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/4170501797.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/4173328907.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/4262152695.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/493602243.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/558859218.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/611726008.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/628074579.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/657717614.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/671262994.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/70013262.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/708899275.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/71785116.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/724109464.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/774232185.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/800028654.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/822529413.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/866604279.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/880133419.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/892824858.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/908083850.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/91680969.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/916902044.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/922157238.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/940800111.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/948919066.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/955459938.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/956752177.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/957434390.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/958315625.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/983637991.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/index.db
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/2030982727.dat
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/8/33/refactorings.history
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/8/33/refactorings.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/9/39/refactorings.history
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/9/39/refactorings.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/serviguadanas/2019/11/44/refactorings.history
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/serviguadanas/2019/11/44/refactorings.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/serviguadanas/2019/11/45/refactorings.history
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/serviguadanas/2019/11/45/refactorings.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/serviguadanas/2019/8/33/refactorings.history
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/serviguadanas/2019/8/33/refactorings.index
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/Battleship-API-wad.lifecyclemapping
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_1y.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_1y_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_1z.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_1z_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_20.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_20_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_21.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_21_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_22.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_22_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_23.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_1y
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/write.lock
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3m.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3m_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3n.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3n_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3o.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3o_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3p.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3p_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3q.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3q_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3r.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3r_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_3s.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/segments.gen
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/segments_3h
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/write.lock
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2i.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2i_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2j.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2j_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2k.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2k_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2l.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2l_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2m.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2m_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2n.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2n_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2o.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2o_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2p.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2p_1.del
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2q.cfs
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_2j
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/write.lock
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/serviguadanas.lifecyclemapping
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.jdt/Battleship-API-wad.container
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.jdt/serviguadanas.container
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.0.20170516-2043.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.pde.core/.local_targets/1568154418927.target
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.pde.core/SavedExternalPluginList.txt
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.pde.ui/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-nnpmhmu_32639/FP.local.files_0/node.properties
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-nnpmhmu_32639/H.local_16/node.properties
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-nnpmhmu_32639/node.properties
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ui.intro/introstate
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.ui/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.python.pydev/pyunit_tests/test_run_pin_info.txt
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springframework.ide.eclipse.aop.core/.state
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/metadata/.state
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/properties/.state
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springframework.ide.eclipse.boot.properties.editor/dialog_settings.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springframework.ide.eclipse.boot/typegraphs/1.4.2.RELEASE
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springframework.ide.eclipse.boot/typegraphs/2.1.7.RELEASE
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/bootstrap/css/bootstrap.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/bootstrap/css/bootstrap.min.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/bootstrap/js/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/bootstrap/js/bootstrap.min.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/application.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/blog.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/buttons.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/dashboard.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/docs.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/flexbox.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/font-awesome.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/fontcustom.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/highlight.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/homepage.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/icons.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/main.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/markdown-content.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/panes.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/projects.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/responsive.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/tools.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/css/typography.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/font-awesome/css/font-awesome.css
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/font-custom/fontcustom.woff
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/blog.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/blog_32.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/bug_32.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/comparison_32.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/compass.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/compass_32.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/extension.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/extension_32.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/favicon.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/forum.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/forum_32.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/guides.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/guides_32.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/loading.gif
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/logo_bigleaf.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/logo_spring.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/logo_sts.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/new_32.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/overlay-incoming.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/question.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/spring-logo.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/springdocs.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/img/springdocs_32.png
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/js/application.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/js/filter.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/js/guide.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/js/jquery.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/common/js/modernizer.flexbox.js
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566146426418/index.html
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml
+Aplicacion/Backend/Workspace/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.update/623127801.xml
+Aplicacion/Backend/Workspace/.metadata/version.ini
+Aplicacion/Backend/Workspace/.recommenders/caches/identified-project-coordinates.json
+Aplicacion/Backend/Workspace/.recommenders/caches/manual-mappings.json
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/.settings/.jsdtscope
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/.settings/org.eclipse.wst.common.component
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/.settings/org.eclipse.wst.common.project.facet.core.xml
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/.settings/org.eclipse.wst.jsdt.ui.superType.container
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/.settings/org.eclipse.wst.jsdt.ui.superType.name
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/bin/FIELDS.sql
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/bin/LICENSE
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/bin/pom.xml
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/bin/src/main/resources/application.properties
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/FIELDS.sql
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/LICENSE
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/pom.xml
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/App.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/controller/BattlefieldController.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/controller/GamerController.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/controller/PlayerController.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/dto/ShipDto.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/model/Battlefield.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/model/Field.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/model/Game.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/model/Player.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/repository/BattlefieldRepository.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/repository/FieldRepository.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/repository/GameRepository.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/java/war/naval/repository/PlayerRepository.java
+Aplicacion/Backend/Workspace/Battleship-API-wad.zip_expanded/Battleship-API-wad/src/main/resources/application.properties
+Aplicacion/Backend/Workspace/serviguadanas/.mvn/wrapper/maven-wrapper.jar
+Aplicacion/Backend/Workspace/serviguadanas/.mvn/wrapper/maven-wrapper.properties
+Aplicacion/Backend/Workspace/serviguadanas/.mvn/wrapper/MavenWrapperDownloader.java
+Aplicacion/Backend/Workspace/serviguadanas/archivo
+Aplicacion/Backend/Workspace/serviguadanas/business/BusinessController.java
+Aplicacion/Backend/Workspace/serviguadanas/mvnw
+Aplicacion/Backend/Workspace/serviguadanas/mvnw.cmd
+Aplicacion/Backend/Workspace/serviguadanas/pom.xml
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/auth/AuthorizationServerConfig.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/auth/InfoAdicionalToken.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/auth/JwtConfig.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/auth/ResourceServerConfig.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/auth/SpringSecurityConfig.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/controller/business/BusinessController.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/controller/product/ProductController.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/controller/promotion/PromotionController.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/controller/user/UserController.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/dao/business/IBusinessDao.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/dao/product/IProductDao.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/dao/promotion/IPromotionDao.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/dao/user/IUserDao.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/entity/business/BusinessEntity.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/entity/product/ProductEntity.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/entity/promotion/PromotionEntity.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/entity/user/RoleEntity.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/entity/user/UserEntity.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/services/business/IBusinessImplement.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/services/business/IBusinessService.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/services/message/MessageImp.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/services/product/IProductImplement.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/services/product/IProductService.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/services/promotion/IPromotionImplement.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/services/promotion/IPromotionService.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/services/user/IUserService.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/services/user/UserService.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/java/com/serviguadanas/backend/ServiguadanasApplication.java
+Aplicacion/Backend/Workspace/serviguadanas/src/main/resources/application.properties
+Aplicacion/Backend/Workspace/serviguadanas/src/main/resources/import.sql
+Aplicacion/Backend/Workspace/serviguadanas/src/test/java/com/serviguadanas/movil/ServiguadanasApplicationTests.java
+Aplicacion/Frontend/serviguadanas/
+aplicacionTesis/backend/workspace/.metadata/.lock
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/recomendationSystem/.indexes/properties.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/recomendationSystem/.markers
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/recomendationSystem/org.eclipse.jdt.core/state.dat
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/testing/.markers
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/testing/org.eclipse.jdt.core/state.dat
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/72.tree
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/azure - AzureApplication.launch
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/AzureKeyWordsImplement.launch
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/AzureSentimentImplement.launch
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Emojis.launch
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/recomendationSystem - Emojis.launch
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/recomendationSystem - RecomendationSystemApplication.launch
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/sacarScpre.launch
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/testing - Hasthag.launch
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/testing - sacarScpre.launch
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/100870437.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1012197361.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1048794563.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/106133578.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1075742580.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1173945041.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1194862868.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1256110151.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1317743334.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1380861822.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1384473541.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1390532450.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1417411144.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1509093699.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1535022438.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1553759607.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1568781325.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1601164664.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1656089713.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1657000868.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1687367188.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1757076553.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1768390463.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1769125065.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1812137605.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1817406292.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1817446190.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1870966913.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1898749798.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/1919021009.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/197336222.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/203577976.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2154113074.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2160391134.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2234834769.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2247034752.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2273491807.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2293761210.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2341309489.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/239333971.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2396838687.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2492726633.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2527983736.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2560315834.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2564013353.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2614682234.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2614775879.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2618923116.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2635348658.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2663008219.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2669420798.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/267446660.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/271195964.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2718937857.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2725782233.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2743900758.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2760785624.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2771613730.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2874668421.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2887625657.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/2944034850.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3053951476.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/305446040.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/308409069.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3129114939.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3146894920.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3153416777.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3163996356.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3239723376.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3298451713.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3311770664.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3322850455.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3371446391.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3387660850.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3407116660.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3409515596.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3424131397.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3439039382.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3449332540.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3500420806.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3503184940.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3672986184.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3800426718.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3844518158.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3870597991.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3876057666.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3911143732.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3917582759.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/39414472.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3979799891.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/3992799908.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/4070123196.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/4170501797.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/4173328907.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/4262152695.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/611726008.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/628074579.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/708899275.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/724109464.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/822529413.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/880133419.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/892824858.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/91680969.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/940800111.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/948919066.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/955459938.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/956752177.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/958315625.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/983637991.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/index.db
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/3407116660.dat
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/10/43/refactorings.history
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/10/43/refactorings.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/8/34/refactorings.history
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/8/34/refactorings.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/8/35/refactorings.history
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/8/35/refactorings.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/recomendationSystem/2019/10/43/refactorings.history
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/recomendationSystem/2019/10/43/refactorings.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/recomendationSystem/2019/8/34/refactorings.history
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/recomendationSystem/2019/8/34/refactorings.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/recomendationSystem/2019/9/36/refactorings.history
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/recomendationSystem/2019/9/36/refactorings.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/recomendationSystem/2019/9/38/refactorings.history
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/recomendationSystem/2019/9/38/refactorings.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/recomendationSystem/2019/9/39/refactorings.history
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/recomendationSystem/2019/9/39/refactorings.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/testing/2019/9/38/refactorings.history
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/testing/2019/9/38/refactorings.index
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_dy.fdt
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_dy.fdx
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_dy.fnm
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_dy.frq
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_dy.nrm
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_dy.prx
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_dy.tii
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_dy.tis
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/nexus-maven-repository-index.properties
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_1g
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/timestamp
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_4q.cfs
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_4q_1.del
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_4r.cfs
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/segments.gen
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/segments_4c
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/write.lock
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2i.cfs
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2i_1.del
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2j.cfs
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2j_1.del
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2k.cfs
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2k_1.del
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2l.cfs
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2l_1.del
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2m.cfs
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2m_1.del
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2n.cfs
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2n_1.del
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2o.cfs
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2o_1.del
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2p.cfs
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_2i
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/write.lock
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/recomendationSystem.lifecyclemapping
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.jdt/recomendationSystem.container
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.0.20170516-2043.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.contributions.1
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.contributors.1
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.extraData.1
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.mainData.1
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.manager/.fileTable.7
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.manager/.fileTable.8
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.manager/.fileTableLock
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.namespaces.1
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.orphans.1
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.table.1
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/.local_targets/1567290570513.target
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.core/SavedExternalPluginList.txt
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.pde.ui/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-nnpmhmu_32639/FP.local.files_0/node.properties
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-nnpmhmu_32639/H.local_16/node.properties
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-nnpmhmu_32639/node.properties
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.search/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ui.intro/introstate
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.ui/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.common.snippets/hidden.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.common.snippets/user.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.python.pydev/pyunit_tests/test_run_pin_info.txt
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springframework.ide.eclipse.aop.core/.state
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/metadata/.state
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/properties/.state
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springframework.ide.eclipse.boot.properties.editor/dialog_settings.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springframework.ide.eclipse.boot/typegraphs/1.4.2.RELEASE
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springframework.ide.eclipse.boot/typegraphs/2.1.7.RELEASE
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/bootstrap/css/bootstrap.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/bootstrap/css/bootstrap.min.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/bootstrap/js/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/bootstrap/js/bootstrap.min.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/application.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/blog.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/buttons.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/dashboard.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/docs.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/flexbox.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/font-awesome.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/fontcustom.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/highlight.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/homepage.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/icons.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/main.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/markdown-content.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/panes.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/projects.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/responsive.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/tools.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/css/typography.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/font-awesome/css/font-awesome.css
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/font-custom/fontcustom.woff
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/blog.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/blog_32.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/bug_32.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/comparison_32.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/compass.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/compass_32.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/extension.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/extension_32.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/favicon.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/forum.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/forum_32.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/guides.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/guides_32.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/loading.gif
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/logo_bigleaf.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/logo_spring.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/logo_sts.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/new_32.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/overlay-incoming.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/question.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/spring-logo.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/springdocs.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/img/springdocs_32.png
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/js/application.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/js/filter.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/js/guide.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/js/jquery.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/common/js/modernizer.flexbox.js
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1566819760820/index.html
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml
+aplicacionTesis/backend/workspace/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.update/623127801.xml
+aplicacionTesis/backend/workspace/.metadata/version.ini
+aplicacionTesis/backend/workspace/.recommenders/caches/identified-project-coordinates.json
+aplicacionTesis/backend/workspace/.recommenders/caches/manual-mappings.json
+aplicacionTesis/backend/workspace/recomendationSystem/.mvn/wrapper/maven-wrapper.jar
+aplicacionTesis/backend/workspace/recomendationSystem/.mvn/wrapper/maven-wrapper.properties
+aplicacionTesis/backend/workspace/recomendationSystem/.mvn/wrapper/MavenWrapperDownloader.java
+aplicacionTesis/backend/workspace/recomendationSystem/mvnw
+aplicacionTesis/backend/workspace/recomendationSystem/mvnw.cmd
+aplicacionTesis/backend/workspace/recomendationSystem/pom.xml
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/controller/searchTweet/TweetSearchController.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/controller/sentiment/AzureSentimentController.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/dao/IUsuarioDao/IUserDao.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/dao/searchTweet/ISearchTweetDao.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/dao/sentiment/IAzureSentimentDao.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/entity/searchTweetEntity/TweetEntity.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/entity/sentiment/AzureSentimentEntity.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/entity/user/RoleEntity.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/entity/user/UserEntity.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/RecomendationSystemApplication.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/service/searchTweet/ContadorTweetsAlgo.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/service/searchTweet/ITweetSearchService.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/service/searchTweet/TweetSearchImplement.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/service/sentiment/AzureSentimentImplement.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/service/sentiment/Document.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/service/sentiment/Documents.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/java/com/recomendation/service/sentiment/IAzureSentimentService.java
+aplicacionTesis/backend/workspace/recomendationSystem/src/main/resources/application.properties
+aplicacionTesis/backend/workspace/recomendationSystem/src/test/java/com/recomendation/RecomendationSystemApplicationTests.java
+aplicacionTesis/backend/workspace/testing/src/com/recomendation/auth/AuthorizationServerConfig.java
+aplicacionTesis/backend/workspace/testing/src/com/recomendation/auth/InfoAdicionalToken.java
+aplicacionTesis/backend/workspace/testing/src/com/recomendation/auth/JwtConfig.java
+aplicacionTesis/backend/workspace/testing/src/com/recomendation/auth/ResourceServerConfig.java
+aplicacionTesis/backend/workspace/testing/src/com/recomendation/auth/SpringSecurityConfig.java
+aplicacionTesis/backend/workspace/testing/src/com/recomendation/service/user/IUserService.java
+aplicacionTesis/backend/workspace/testing/src/com/recomendation/service/user/UserService.java
+aplicacionTesis/backend/workspace/testing/src/testing/Hasthag.java
+aplicacionTesis/backend/workspace/testing/src/testing/sacarScpre.java
+aplicacionTesis/frontend/package-lock.json
+aplicacionTesis/frontend/recomendation/
+Inteligencia Artificial/frontend/criminal/
+Inteligencia Artificial/workspace/.metadata/.lock
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/inteligenciaArtificial/.indexes/properties.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/inteligenciaArtificial/.markers
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/inteligenciaArtificial/org.eclipse.jdt.core/state.dat
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/20.tree
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/inteligenciaArtificial - InteligenciaArtificialApplication.launch
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.help.ui/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/100870437.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1012197361.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1029388497.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1048794563.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/106133578.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1075742580.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1173945041.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1194862868.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1256110151.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1317743334.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1380861822.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1390532450.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1417411144.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1483844028.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1509093699.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1535022438.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1553759607.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1656089713.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1657000868.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1687367188.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1757076553.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1768390463.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1769125065.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1812137605.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1817446190.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1870966913.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1898749798.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/1919021009.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/197247922.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/197336222.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/203577976.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2154113074.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2160391134.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2234834769.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2247034752.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2273491807.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2293761210.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2341309489.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/239333971.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2396838687.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2492726633.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2527983736.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2560315834.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2564013353.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2614682234.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2614775879.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2663008219.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/267446660.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/271195964.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2718937857.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2725782233.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2743900758.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2760785624.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2771613730.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2874668421.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/2887625657.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3017234737.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3053951476.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/308409069.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3129114939.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3146894920.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3163996356.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3239723376.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3298451713.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3311770664.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3322850455.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3371446391.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3387660850.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3409515596.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3424131397.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3439039382.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3463184395.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3500420806.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3503184940.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3565388838.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3672986184.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3800426718.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3819261538.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3844518158.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3870597991.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3876057666.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3911143732.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3917582759.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/39414472.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3979799891.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/3992799908.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/4070123196.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/4158112065.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/4170501797.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/4173328907.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/4262152695.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/611726008.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/628074579.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/70013262.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/708899275.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/724109464.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/822529413.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/880133419.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/892824858.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/91680969.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/940800111.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/948919066.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/955459938.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/956752177.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/958315625.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/983637991.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/index.db
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/4158112065.dat
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/inteligenciaArtificial/2019/10/41/refactorings.history
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/inteligenciaArtificial/2019/10/41/refactorings.index
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/inteligenciaArtificial.lifecyclemapping
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_k.cfs
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_k_1.del
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_l.cfs
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_l
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/write.lock
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/_1o.cfs
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/segments.gen
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/segments_1k
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/0ab6c0277ed759bc0b947db85592c11a/write.lock
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_k.cfs
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_k_1.del
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_l.cfs
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_l_1.del
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_m.cfs
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_m_1.del
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_n.cfs
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_n_1.del
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_o.cfs
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_o_1.del
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_p.cfs
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_p
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/write.lock
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.jdt/inteligenciaArtificial.container
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.0.20170516-2043.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.contributions.1
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.contributors.1
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.extraData.1
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.mainData.1
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.manager/.fileTable.7
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.manager/.fileTable.8
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.manager/.fileTableLock
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.namespaces.1
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.orphans.1
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.extensions/.table.1
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/.local_targets/1570840102010.target
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.core/SavedExternalPluginList.txt
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.pde.ui/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-nnpmhmu_32639/FP.local.files_0/node.properties
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-nnpmhmu_32639/H.local_16/node.properties
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-nnpmhmu_32639/node.properties
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.ui.intro/introstate
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.ui/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.python.pydev/pyunit_tests/test_run_pin_info.txt
+Inteligencia Artificial/workspace/.metadata/.plugins/org.springframework.ide.eclipse.aop.core/.state
+Inteligencia Artificial/workspace/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/metadata/.state
+Inteligencia Artificial/workspace/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/properties/.state
+Inteligencia Artificial/workspace/.metadata/.plugins/org.springframework.ide.eclipse.boot.properties.editor/dialog_settings.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.springframework.ide.eclipse.boot/typegraphs/2.1.7.RELEASE
+Inteligencia Artificial/workspace/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml
+Inteligencia Artificial/workspace/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.update/623127801.xml
+Inteligencia Artificial/workspace/.metadata/version.ini
